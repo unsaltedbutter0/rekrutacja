@@ -5,14 +5,10 @@
     },
     {
         "content": "przebrać spodnie",
-        "done": true
+        "done": false
     },
     {
         "content": "nakarmić psa",
-        "done": false
-    },
-    {
-        "content": "umycie psa",
-        "done": false
+        "done": true
     }
 ]
