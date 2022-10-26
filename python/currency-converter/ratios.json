@@ -1,20 +1,26 @@
 [
-  {
-    "base_currency": "PLN",
-    "target_currency": "EUR",
-    "date_fetched": "2019-09-27",
-    "ratio": 0.2279721874
-  },
-  {
-    "base_currency": "PLN",
-    "target_currency": "USD",
-    "date_fetched": "2019-09-27",
-    "ratio": 0.2492875869
-  },
-  {
-    "base_currency": "USD",
-    "target_currency": "EUR",
-    "date_fetched": "2019-09-27",
-    "ratio": 0.9144947417
-  }
+    {
+        "base_currency": "PLN",
+        "target_currency": "EUR",
+        "date_fetched": "2022-10-24",
+        "ratio": 0.209525
+    },
+    {
+        "base_currency": "PLN",
+        "target_currency": "USD",
+        "date_fetched": "2022-10-25",
+        "ratio": 0.206199
+    },
+    {
+        "base_currency": "USD",
+        "target_currency": "EUR",
+        "date_fetched": "2019-09-27",
+        "ratio": 0.9144947417
+    },
+    {
+        "base_currency": "USD",
+        "target_currency": "PLN",
+        "date_fetched": "2022-10-24",
+        "ratio": 4.849695
+    }
 ]
